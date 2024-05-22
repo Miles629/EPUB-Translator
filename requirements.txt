@@ -1,0 +1,5 @@
+flask
+openai
+zipfile
+shutil
+BeautifulSoup
